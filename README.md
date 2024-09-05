@@ -21,6 +21,10 @@ cd Project_By_Anand
 ```bash
 python -m venv venv
 ```
+### On Linux:
+```bash
+source venv/bin/activate
+```
 
 ### On Windows:
 ```bash
