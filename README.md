@@ -30,6 +30,10 @@ source venv/bin/activate
 ```bash
 venv\Scripts\activate
 ```
+## Install the Python Package
+```bash
+pip install -e .
+```
 ## Downlode Dataset
 As the dataset of Credit Card Fraud Detection is above 100MB. I am not able to uplode that file on github but you can downlode it form the link 
 ```
@@ -38,4 +42,8 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 ### Make sure you downloded dataset in correct dir 
 ```
 Project_By_Anand/The_Project/Credit_Card_Fraud_Detection/assets
+```
+### Unzip the file
+```
+unzip archive.zip
 ```
