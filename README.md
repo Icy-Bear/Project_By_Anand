@@ -35,4 +35,7 @@ As the dataset of Credit Card Fraud Detection is above 100MB. I am not able to u
 ```
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 ```
-### make sure you downloded dataset in correct dir : Project_By_Anand/The_Project/Credit_Card_Fraud_Detection/assets
+### Make sure you downloded dataset in correct dir 
+```
+Project_By_Anand/The_Project/Credit_Card_Fraud_Detection/assets
+```
