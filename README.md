@@ -1,8 +1,13 @@
 # Project_By_Anand
 
 ## Overview
-
-This project focuses on [brief description of the project, e.g., "fraud detection using credit card transaction data"]. It includes scripts for data processing, model training, and evaluation.
+This project focuses on multiple machine learning models and tools for data science applications. The main components include:
+1. Credit Card Fraud Detection - Identifies fraudulent credit card transactions.
+2. Crop Yield Prediction - Predicts the yield of various crops based on input features.
+3. Crop Recommendation - Recommends suitable crops based on given conditions.
+4. Breast Cancer Detection - Detects breast cancer from medical data.
+5. Forest Cover Classification - Classifies different types of forest cover based on input data.
+The project also includes a helper module to streamline data processing and model management.
 
 ## Setup Instructions
 
